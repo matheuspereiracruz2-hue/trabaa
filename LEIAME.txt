@@ -1,0 +1,7 @@
+COMO RODAR (XAMPP / WAMP / Laragon)
+1. Copie a pasta stardew-wiki para htdocs (XAMPP) ou www (WAMP/Laragon).
+2. No phpMyAdmin, importe o arquivo banco.sql.
+3. Confira usuário e senha do MySQL em conexao.php.
+4. Abra http://localhost/stardew-wiki/ no navegador.
+5. Cadastre-se em register.php: o PRIMEIRO usuário vira administrador e acessa admin.php.
+Obs.: a geolocalização exige localhost ou HTTPS.
